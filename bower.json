@@ -26,8 +26,7 @@
         "bower_components"
     ],
     "dependencies": {
-        "gridi-framework-core": "*",
         "gridi-framework-headers": "*",
-        "gridi-framework-background-colors-helpers": "*"
+        "gridi-framework-bg-colors": "*"
     }
 }
